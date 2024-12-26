@@ -49,8 +49,3 @@ The **Smart Energy Management System** is designed to predict energy demand, set
    - Simulate interactions:
      - VTN sends signals for adjustments.
      - VEN executes decisions (raise/optimize production).
-
-### 5. **Visualization**
-   - Develop a Streamlit app for real-time monitoring:
-     - Input sliders for environmental factors.
-     - Display predicted demand, actions, and adjustments.
