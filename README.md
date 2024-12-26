@@ -9,7 +9,6 @@ The **Smart Energy Management System** is designed to predict energy demand, set
 1. **Energy Demand Prediction:** Use Random Forest regression to forecast daily energy demand based on environmental factors like temperature and humidity.
 2. **Threshold Setting:** Establish thresholds to determine whether to raise or optimize energy production, ensuring efficient grid operation.
 3. **Demand-Response System:** Implement VTN (Virtual Top Node) and VEN (Virtual End Node) communication to automate production adjustments based on demand predictions.
-4. **Visualization and Monitoring:** Provide a user-friendly dashboard using Streamlit to display predictions, actions, and adjustments.
 
 ---
 
